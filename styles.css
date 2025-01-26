@@ -14,11 +14,8 @@ li {
       
 h1{
     text-align: center;
-    order: 2;
 }
-p{
-    order: 3;
-}
+
 li a{
      display: block;
      color: white;
@@ -31,6 +28,10 @@ li a:hover {
     background-color: #111;
 }
 
-#dropdown{
-    order: 1;
+.dropdown-content {
+    display: none;
 }
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
