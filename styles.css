@@ -4,6 +4,9 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 li {
     float: left;
@@ -23,3 +26,5 @@ li a{
 li a:hover {
     background-color: #111;
 }
+
+
