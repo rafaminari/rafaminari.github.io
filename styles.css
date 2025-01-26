@@ -14,8 +14,9 @@ li {
       
 h1{
     text-align: center;
-    position: relative;
-    /*top: 30px;*/
+    position:relative;
+    z-index: 3;
+    color: white;
 }
 
 li a{
