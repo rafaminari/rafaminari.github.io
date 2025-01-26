@@ -34,7 +34,7 @@ li a:hover {
 
 /* Dropdown Button */
 .dropbtn {
-    background-color: #42bbeb;
+    background-color: #25c0e7;
     color: white;
     padding: 32px;
     font-size: 16px;
@@ -66,12 +66,9 @@ li a:hover {
     text-decoration: none;
     /*display: block;*/
 }
-
-.dropbtn:hover {
-    .drop-contents {display: block;}
-}
      
 .dropbtn:hover {
     background-color: #297594;
+    .drop-contents {display: block};
 }
 
