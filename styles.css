@@ -43,7 +43,7 @@ li a:hover {
     transition-duration: 0.1s;
 }
   
-  /* The container <div> - needed to position the dropdown content */
+/* The container <div> - needed to position the dropdown content */
 .dropdown {
     position: relative;
     display: inline-block;
