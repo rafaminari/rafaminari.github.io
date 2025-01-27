@@ -77,10 +77,6 @@ li a:hover {
     background-color: #2532e7;
 }
 
-/*.dropbtn:hover + .drop-contents {
-    display: block;
-}*/
-
 .dropdown:hover .drop-contents {
     display: block;
 }
