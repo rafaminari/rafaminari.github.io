@@ -9,8 +9,16 @@ html {
     padding: 0;
 }
 
-h1, ul {
+h1 {
     margin: 0; /* Resets margins for header or list elements */
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #25c0e7;
 }
 
 li {
